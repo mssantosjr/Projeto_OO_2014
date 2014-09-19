@@ -155,17 +155,11 @@
     <Compile Include="Sobre.Designer.cs">
       <DependentUpon>Sobre.cs</DependentUpon>
     </Compile>
-    <Compile Include="Venda de Hardware.cs">
+    <Compile Include="Vender Produto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Venda de Hardware.Designer.cs">
-      <DependentUpon>Venda de Hardware.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Vendas.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Vendas.Designer.cs">
-      <DependentUpon>Vendas.cs</DependentUpon>
+    <Compile Include="Vender Produto.Designer.cs">
+      <DependentUpon>Vender Produto.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Cadastro de Software.resx">
       <DependentUpon>Cadastro de Software.cs</DependentUpon>
@@ -229,6 +223,9 @@
     </Compile>
     <EmbeddedResource Include="Sobre.resx">
       <DependentUpon>Sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vender Produto.resx">
+      <DependentUpon>Vender Produto.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

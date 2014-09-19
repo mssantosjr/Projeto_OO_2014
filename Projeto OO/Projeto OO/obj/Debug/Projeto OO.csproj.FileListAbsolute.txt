@@ -76,3 +76,4 @@ C:\Users\Misa\Documents\GitHub\Projeto_OO_2014\Projeto OO\Projeto OO\obj\Debug\P
 C:\Users\Misa\Documents\GitHub\Projeto_OO_2014\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Properties.Resources.resources
 C:\Users\Misa\Documents\GitHub\Projeto_OO_2014\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Sobre.resources
 C:\Users\Misa\Documents\GitHub\Projeto_OO_2014\Projeto OO\Projeto OO\obj\Debug\Projeto OO.csproj.GenerateResource.Cache
+C:\Users\Misa\Documents\GitHub\Projeto_OO_2014\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.VenderProduto.resources
