@@ -84,8 +84,8 @@ namespace Projeto_OO
 
         private void hardwareToolStripMenuItem2_Click(object sender, EventArgs e)
         {
-            Venda_de_Hardware vdh = new Venda_de_Hardware();
-            vdh.Show();
+            Vendas v = new Vendas();
+            v.Show();
         }
     }
 }

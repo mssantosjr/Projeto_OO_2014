@@ -43,11 +43,11 @@
             this.equipamentosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.hardwareToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.softwareToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.vendasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.VendaDeProduto = new System.Windows.Forms.ToolStripMenuItem();
             this.sobreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.softwareBoladãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.vendasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.hardwareToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
-            this.softwareToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.relatórioDeVendasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -176,6 +176,22 @@
             this.softwareToolStripMenuItem1.Text = "Software";
             this.softwareToolStripMenuItem1.Click += new System.EventHandler(this.softwareToolStripMenuItem1_Click);
             // 
+            // vendasToolStripMenuItem
+            // 
+            this.vendasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.VendaDeProduto,
+            this.relatórioDeVendasToolStripMenuItem});
+            this.vendasToolStripMenuItem.Name = "vendasToolStripMenuItem";
+            this.vendasToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
+            this.vendasToolStripMenuItem.Text = "Vendas";
+            // 
+            // VendaDeProduto
+            // 
+            this.VendaDeProduto.Name = "VendaDeProduto";
+            this.VendaDeProduto.Size = new System.Drawing.Size(178, 22);
+            this.VendaDeProduto.Text = "Vender Produto";
+            this.VendaDeProduto.Click += new System.EventHandler(this.hardwareToolStripMenuItem2_Click);
+            // 
             // sobreToolStripMenuItem
             // 
             this.sobreToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -191,27 +207,11 @@
             this.softwareBoladãoToolStripMenuItem.Text = "Software Boladão";
             this.softwareBoladãoToolStripMenuItem.Click += new System.EventHandler(this.softwareBoladãoToolStripMenuItem_Click);
             // 
-            // vendasToolStripMenuItem
+            // relatórioDeVendasToolStripMenuItem
             // 
-            this.vendasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.hardwareToolStripMenuItem2,
-            this.softwareToolStripMenuItem2});
-            this.vendasToolStripMenuItem.Name = "vendasToolStripMenuItem";
-            this.vendasToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
-            this.vendasToolStripMenuItem.Text = "Vendas";
-            // 
-            // hardwareToolStripMenuItem2
-            // 
-            this.hardwareToolStripMenuItem2.Name = "hardwareToolStripMenuItem2";
-            this.hardwareToolStripMenuItem2.Size = new System.Drawing.Size(152, 22);
-            this.hardwareToolStripMenuItem2.Text = "Hardware";
-            this.hardwareToolStripMenuItem2.Click += new System.EventHandler(this.hardwareToolStripMenuItem2_Click);
-            // 
-            // softwareToolStripMenuItem2
-            // 
-            this.softwareToolStripMenuItem2.Name = "softwareToolStripMenuItem2";
-            this.softwareToolStripMenuItem2.Size = new System.Drawing.Size(152, 22);
-            this.softwareToolStripMenuItem2.Text = "Software";
+            this.relatórioDeVendasToolStripMenuItem.Name = "relatórioDeVendasToolStripMenuItem";
+            this.relatórioDeVendasToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.relatórioDeVendasToolStripMenuItem.Text = "Relatório de Vendas";
             // 
             // MenuPrincipal
             // 
@@ -249,8 +249,8 @@
         private System.Windows.Forms.ToolStripMenuItem hardwareToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem softwareToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem vendasToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem hardwareToolStripMenuItem2;
-        private System.Windows.Forms.ToolStripMenuItem softwareToolStripMenuItem2;
+        private System.Windows.Forms.ToolStripMenuItem VendaDeProduto;
+        private System.Windows.Forms.ToolStripMenuItem relatórioDeVendasToolStripMenuItem;
 
     }
 }

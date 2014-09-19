@@ -161,6 +161,12 @@
     <Compile Include="Venda de Hardware.Designer.cs">
       <DependentUpon>Venda de Hardware.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendas.Designer.cs">
+      <DependentUpon>Vendas.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Cadastro de Software.resx">
       <DependentUpon>Cadastro de Software.cs</DependentUpon>
     </EmbeddedResource>
