@@ -1,0 +1,52 @@
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\bin\Debug\Projeto OO.exe.config
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\bin\Debug\Projeto OO.exe
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\bin\Debug\Projeto OO.pdb
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto OO.csprojResolveAssemblyReference.cache
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.MenuPrincipal.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Properties.Resources.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto OO.csproj.GenerateResource.Cache
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto OO.exe
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto OO.pdb
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.CadastrarPF.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.CadastrarPJ.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.CadastrarSoftware.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.CadastrarHardware.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Sobre.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.ConsultarPessoaFisica.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.ConsultarEmpresa.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_apagar.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_editar.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Consultar_Software.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_apagar_hardware.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_apagar_pessoafisica.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_apagar_software.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_editar_hardware.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_editar_pessoafisica.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_editar_software.resources
+c:\users\misa\documents\visual studio 2013\Projects\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Consultar_Hardware.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\bin\Debug\Projeto OO.exe.config
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto OO.exe
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto OO.pdb
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\bin\Debug\Projeto OO.exe
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\bin\Debug\Projeto OO.pdb
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto OO.csprojResolveAssemblyReference.cache
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.CadastrarSoftware.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.CadastrarHardware.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.CadastrarPF.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.ConsultarEmpresa.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.ConsultarPessoaFisica.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Consultar_Hardware.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Consultar_Software.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.MenuPrincipal.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.CadastrarPJ.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_apagar.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_apagar_hardware.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_apagar_pessoafisica.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_apagar_software.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_editar.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_editar_hardware.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_editar_pessoafisica.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.PopUp_editar_software.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Properties.Resources.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto_OO.Sobre.resources
+C:\Users\Misa\Dropbox\Projeto OO\Projeto OO\Projeto OO\obj\Debug\Projeto OO.csproj.GenerateResource.Cache
